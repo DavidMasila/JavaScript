@@ -1,4 +1,4 @@
-# JavaScript Recap
+# JavaScript Recap Code
 
 - Asynchronous JS
 - Error Handling
