@@ -21,7 +21,9 @@ function displayContents (arr) {
 }
 
 const arr1 = ['masila', 'david', 'mwendwa', 'antony', 'prince', 'daks'];
+//creating an iterator object
 const arr1Iterator = displayContents(arr1);
+console.log(arr1Iterator);
 console.log(arr1Iterator.nextItem());
 console.log(arr1Iterator.nextItem());
 console.log(arr1Iterator.nextItem());
